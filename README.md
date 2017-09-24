@@ -1,6 +1,7 @@
 # Dotfiles
 
 | file		| tool		| dir			|
+| ---		| ---		| ---			|
 | .lynxrc	| lynx		| ~			|
 | .tmux.conf	| tmux	 	| ~			|
 | .zshrc	| zsh	 	| ~			|
